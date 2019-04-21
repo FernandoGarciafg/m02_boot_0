@@ -20,3 +20,23 @@ otraTortuguita.fd(50)
 # esto sirve por ej para poder crear 2 jugadores en un juego, ambos van a tener la mismas funcionalidades pero no los mismos
 # atributos, podemos tener objetos que teniendo el mismo codigo tengan comportamientos distintos y sus atributos-propiedades sean
 # distintas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
