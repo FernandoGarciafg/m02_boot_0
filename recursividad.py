@@ -10,7 +10,7 @@ def retroContador2(numero):
     if numero > 0:
         print("{}\n".format(numero), end = "")
         while numero > 0:
-            (retroContador(numero - 1))
+            (retroContador2(numero - 1))
             return numero
     else:
         pass
